@@ -1,0 +1,34 @@
+p{
+	text-align:center;
+	text-transform:uppercase;
+	font-family:serif;
+}
+.div1{
+	width:100%;
+	height:200px;
+	background-color:#b4b4b4;
+}
+.div2{
+	width:100%;
+	height:500px;
+	background-color:white;
+}
+a:link{
+	color:hotpink;
+	text-decoration:none;
+}
+a:hover{
+	color:red;
+	text-decoration:underline;
+}
+a:active{
+	color:blue;
+	text-decoration:none;
+}
+a:visited{
+	color:#000080;
+	text-decoration:none;
+}
+.gotop{
+	text-align:right;
+}
